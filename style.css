@@ -1,0 +1,22 @@
+h1 {
+    font-weight: 700;
+    font-family: Helvetica, comic-sans, sans-serif;
+    color: rgb(21, 230, 230);
+    background-color: rgb(0,0,0);
+}
+
+img {
+    height: 400px;
+    width: 800px;
+}
+
+h1 {
+    font-weight: bolder;
+    font-style: italic
+}
+
+img {
+    color: azure;
+    height: 500px;
+    width: auto;
+}
